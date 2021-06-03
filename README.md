@@ -13,4 +13,4 @@ Most of the figures are presented within the notebook itself, and files can be s
 To just view the Jupyter notebook, you can use [nbviewer](https://nbviewer.jupyter.org/).
 
 In part of this project, SAOImageDS9 was used to view the CFHTLS images. Further details on how and why can be found in the Jupyter notebook annotations.
-You can download DS9 [here](https://sites.google.com/cfa.harvard.edu/saoimageds9) and the CFHTLS images are available [here](https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/megapipe/cfhtls/scrollD2.html)
+You can download DS9 [here](https://sites.google.com/cfa.harvard.edu/saoimageds9) and the CFHTLS images are available [here](https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/megapipe/cfhtls/scrollD2.html).
