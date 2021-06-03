@@ -10,7 +10,7 @@ Of course, you can change the file paths in the Jupyter notebook for your own co
 I did not upload images/figures or additional files created in the process of running the Jupyter notebook in the repository. 
 Most of the figures are presented within the notebook itself, and files can be saved locally by just uncommenting any `plt.savefig()` or `np.savetxt()` commands.
 
-To just view the Jupyter notebook, you can use [nbviewer](https://nbviewer.jupyter.org/).
+To just view the Jupyter notebook, you can use [nbviewer](https://nbviewer.jupyter.org/github/tawnysit/CFHTLS_RRLyrae/blob/main/data_exploration_annotated.ipynb).
 
 In part of this project, SAOImageDS9 was used to view the CFHTLS images. Further details on how and why can be found in the Jupyter notebook annotations.
 You can download DS9 [here](https://sites.google.com/cfa.harvard.edu/saoimageds9) and the CFHTLS images are available [here](https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/megapipe/cfhtls/scrollD2.html).
